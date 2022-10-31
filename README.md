@@ -21,7 +21,7 @@ It will generate 2 output files
 * output.csv will contain the query matches using nblast
 * LocusIdentifier_output.csv will contain the locuses.
 
-## Interpretation 
+## Algorithm and Interpretation 
 
 In order to interpret the results , one must understand how it works.
 
