@@ -2,7 +2,7 @@
 
 ## Why ?
 
-Developed as a part of ELAN pipeline.
+Developed as a part of ELAN pipeline. For finding pre-insertion locii , of around 200 nucleotide length. 
 
 ## Requirements
 
